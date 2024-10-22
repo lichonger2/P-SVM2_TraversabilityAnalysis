@@ -1,0 +1,10 @@
+nu: 0.178900
+gamma: 0.099500
+valrows: 402088
+tn: 379121
+fp: 3622
+fn: 5672
+tp: 13672
+valid_acc: 0.976886
+valid_latency: 0
+seed: 21415
